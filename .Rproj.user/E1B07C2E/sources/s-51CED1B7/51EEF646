@@ -1,0 +1,32 @@
+{
+    "id": "51EEF646",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607693956120.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "Front_c",
+        "caption": "Front_c",
+        "totalObservations": 1526,
+        "displayedObservations": 1526,
+        "variables": 1,
+        "cacheKey": "86001CD7",
+        "object": "Front_c",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=Front_c&cache_key=86001CD7&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2037214812648,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607693956120,
+    "read_only": false,
+    "read_only_alternatives": []
+}

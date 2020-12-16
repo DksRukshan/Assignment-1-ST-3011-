@@ -1,0 +1,32 @@
+{
+    "id": "3A7B9D1A",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607772283955.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "expression": "df_fourG",
+        "caption": "df_fourG",
+        "totalObservations": "2000",
+        "displayedObservations": "2000",
+        "variables": "1",
+        "cacheKey": "CC6A6122",
+        "object": "df_fourG",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=df_fourG&cache_key=CC6A6122&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7307491043415436322,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607772283955,
+    "read_only": false,
+    "read_only_alternatives": []
+}
